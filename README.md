@@ -1,2 +1,2 @@
-# to-do-list-app
+# to-register
 A simple to do list application.
